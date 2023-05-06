@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://Vedasri-Khavala.github.io/vedasri/sitemap.xml
